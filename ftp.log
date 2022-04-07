@@ -1,0 +1,16 @@
+nohup: ignoring input
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2000->2199
+INFO:pyftpdlib:>>> starting FTP server on 222.30.62.7:2020, pid=17909 <<<
+INFO:pyftpdlib:10.2.0.4:49844-[] FTP session opened (connect)
+INFO:pyftpdlib:10.2.0.4:49844-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:10.2.0.4:49844-[] FTP session closed (disconnect).
+INFO:pyftpdlib:10.2.0.4:49846-[] FTP session opened (connect)
+INFO:pyftpdlib:10.2.0.4:49846-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:10.2.0.4:49846-[] FTP session closed (disconnect).
+INFO:pyftpdlib:10.2.0.4:49847-[] FTP session opened (connect)
+INFO:pyftpdlib:10.2.0.4:49847-[ocr] USER 'ocr' logged in.
+INFO:pyftpdlib:10.2.0.4:49847-[ocr] CWD /dl/sry/TUT/usage/ftp/files 250
+INFO:pyftpdlib:10.2.0.4:49847-[ocr] FTP session closed (disconnect).
+INFO:pyftpdlib::-[] FTP session closed (disconnect).
